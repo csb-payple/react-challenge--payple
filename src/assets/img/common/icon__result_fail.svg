@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120">
+  <g id="그룹_4" data-name="그룹 4" transform="translate(-242 -124)">
+    <g id="그룹_2" data-name="그룹 2" transform="translate(145)">
+      <g id="타원_1" data-name="타원 1" transform="translate(97 124)" fill="none" stroke="#dc143c" stroke-width="4">
+        <circle cx="60" cy="60" r="60" stroke="none"/>
+        <circle cx="60" cy="60" r="58" fill="none"/>
+      </g>
+    </g>
+    <path id="Icon_awesome-times" data-name="Icon awesome-times" d="M39.351,34.159,55.575,17.935a5.1,5.1,0,0,0,0-7.211L51.969,7.118a5.1,5.1,0,0,0-7.211,0L28.534,23.342,12.31,7.118a5.1,5.1,0,0,0-7.211,0L1.493,10.724a5.1,5.1,0,0,0,0,7.211L17.717,34.159,1.493,50.383a5.1,5.1,0,0,0,0,7.211L5.1,61.2a5.1,5.1,0,0,0,7.211,0L28.534,44.976,44.758,61.2a5.1,5.1,0,0,0,7.211,0l3.606-3.606a5.1,5.1,0,0,0,0-7.211Z" transform="translate(273 149.375)" fill="#dc143c"/>
+  </g>
+</svg>

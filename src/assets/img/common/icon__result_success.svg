@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120">
+  <g id="그룹_3" data-name="그룹 3" transform="translate(-97 -124)">
+    <g id="그룹_1" data-name="그룹 1">
+      <g id="타원_1" data-name="타원 1" transform="translate(97 124)" fill="none" stroke="#24b47e" stroke-width="4">
+        <circle cx="60" cy="60" r="60" stroke="none"/>
+        <circle cx="60" cy="60" r="58" fill="none"/>
+      </g>
+      <path id="Icon_awesome-check" data-name="Icon awesome-check" d="M25.573,59.621,1.1,35.151a3.765,3.765,0,0,1,0-5.324L6.426,24.5a3.764,3.764,0,0,1,5.324,0L28.235,40.987,63.542,5.68a3.765,3.765,0,0,1,5.324,0L74.19,11a3.765,3.765,0,0,1,0,5.324L30.9,59.621A3.765,3.765,0,0,1,25.573,59.621Z" transform="translate(119 151.423)" fill="#24b47e"/>
+    </g>
+  </g>
+</svg>

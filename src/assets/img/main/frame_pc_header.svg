@@ -1,0 +1,12 @@
+<svg id="Mask" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="550" height="30" viewBox="0 0 550 30">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fafbfc"/>
+    </linearGradient>
+  </defs>
+  <path id="Rectangle" d="M5,0H545a5,5,0,0,1,5,5V30a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V5A5,5,0,0,1,5,0Z" fill="url(#linear-gradient)"/>
+  <circle id="Oval" cx="4" cy="4" r="4" transform="translate(36 11)" fill="#29cf42"/>
+  <circle id="Oval-2" data-name="Oval" cx="4" cy="4" r="4" transform="translate(23 11)" fill="#ffc02f"/>
+  <circle id="Oval-3" data-name="Oval" cx="4" cy="4" r="4" transform="translate(10 11)" fill="#ff554f"/>
+</svg>
